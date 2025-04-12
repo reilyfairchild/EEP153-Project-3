@@ -9,7 +9,10 @@
 - **Junsu Yi** - [yijunsu@berkeley.edu](mailto:yijunsu@berkeley.edu) (GitHub: jjjunsu)  
 
 ## Topic & Goals
-Our project focused on analyzing the relationship between diet, budget, and prices for Senegal households.
+- Senegal is politically stable but struggles with food security and economic inequality
+- Analyzing dietary patterns in Senegal helps identify socioeconomic factors affecting food security and nutrition (Family size, structure, and budget all influence food choices and nutrition)
 
 ### Project Goals
-- Determine the utility for various household types in Senegal
+- Understand how different household characteristics, such as family size, parental structure, and number of children, influence food consumption patterns in Senegal
+- Describe the relationship between household budget limitations and food choices
+- Explain how dietary patterns vary across different regions in Senegal
